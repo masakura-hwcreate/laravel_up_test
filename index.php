@@ -10,3 +10,8 @@ function bye()
 {
     echo 'bye';
 }
+
+function push()
+{
+    echo 'push';
+}
