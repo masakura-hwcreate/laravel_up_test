@@ -20,7 +20,7 @@ function newBranch()
 {
     echo 'newBranch';
 }
-
-function pull() {
+function pull()
+{
     echo 'pull';
 }
