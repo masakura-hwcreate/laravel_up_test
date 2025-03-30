@@ -5,3 +5,8 @@ echo 'やっとアップできたよ';
 function hello() {
     echo 'Hello';
 }
+
+function bye()
+{
+    echo 'bye';
+}
