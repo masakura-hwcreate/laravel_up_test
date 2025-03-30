@@ -15,3 +15,8 @@ function push()
 {
     echo 'push';
 }
+
+function newBranch()
+{
+    echo 'newBranch';
+}
