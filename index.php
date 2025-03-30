@@ -15,3 +15,7 @@ function push()
 {
     echo 'push';
 }
+function pull()
+{
+    echo 'pull';
+}
