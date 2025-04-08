@@ -19,3 +19,5 @@ function pull()
 {
     echo 'pull';
 }
+
+pull();
