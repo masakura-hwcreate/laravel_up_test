@@ -29,3 +29,6 @@ function pull()
 function clear() {
     echo 'clear';
 }
+function h1() {
+    echo 'h1';
+}
