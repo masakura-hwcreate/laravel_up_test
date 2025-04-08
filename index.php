@@ -19,5 +19,5 @@ function pull()
 {
     echo 'pull';
 }
-
 pull();
+bye();
